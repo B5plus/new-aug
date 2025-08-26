@@ -19,7 +19,7 @@ A modern, responsive, and SEO-optimized website for Africure, a leading pharmace
 - **Primary Yellow**: #d69e2e
 - **Primary Purple**: #805ad5
 - **Primary Orange**: #dd6b20
-- **Primary Blue**: #3182ce
+- **Primary Blue**: #3182c
 
 ### Typography
 - **Font Family**: Inter (Google Fonts)
