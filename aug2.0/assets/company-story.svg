@@ -1,0 +1,25 @@
+<svg width="800" height="500" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <linearGradient id="storyGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" style="stop-color:#38a169"/>
+            <stop offset="50%" style="stop-color:#3182ce"/>
+            <stop offset="100%" style="stop-color:#805ad5"/>
+        </linearGradient>
+    </defs>
+    <rect width="100%" height="100%" fill="url(#storyGradient)"/>
+    <g fill="rgba(255,255,255,0.3)">
+        <rect x="100" y="150" width="600" height="200" rx="10"/>
+        <rect x="150" y="180" width="40" height="60" fill="rgba(255,255,255,0.1)"/>
+        <rect x="220" y="180" width="40" height="60" fill="rgba(255,255,255,0.1)"/>
+        <rect x="290" y="180" width="40" height="60" fill="rgba(255,255,255,0.1)"/>
+        <rect x="450" y="180" width="40" height="60" fill="rgba(255,255,255,0.1)"/>
+        <rect x="520" y="180" width="40" height="60" fill="rgba(255,255,255,0.1)"/>
+        <rect x="590" y="180" width="40" height="60" fill="rgba(255,255,255,0.1)"/>
+    </g>
+    <text x="400" y="100" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="bold" 
+          fill="white" text-anchor="middle">COMPANY STORY</text>
+    <text x="400" y="130" font-family="Inter, Arial, sans-serif" font-size="16" 
+          fill="rgba(255,255,255,0.9)" text-anchor="middle">15+ Years of Excellence in Healthcare</text>
+    <text x="400" y="450" font-family="Inter, Arial, sans-serif" font-size="18" 
+          fill="rgba(255,255,255,0.8)" text-anchor="middle">Founded 2009 • Abidjan, Ivory Coast</text>
+</svg>

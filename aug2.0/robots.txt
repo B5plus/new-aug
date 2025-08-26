@@ -1,0 +1,26 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://www.africure.com/sitemap.xml
+
+# Disallow admin areas (if any)
+Disallow: /admin/
+Disallow: /private/
+Disallow: /*.pdf$
+
+# Allow important pages
+Allow: /index.html
+Allow: /about.html
+Allow: /products.html
+Allow: /manufacturing.html
+Allow: /careers.html
+Allow: /contact.html
+
+# Allow CSS and JS files
+Allow: /css/
+Allow: /js/
+Allow: /assets/
+
+# Crawl delay (optional)
+Crawl-delay: 1

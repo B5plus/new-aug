@@ -1,0 +1,20 @@
+<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg">
+    <rect width="100%" height="100%" fill="#f7fafc" stroke="#cbd5e0" stroke-width="2"/>
+    <g transform="translate(150, 30)">
+        <rect x="0" y="40" width="100" height="140" fill="#805ad5" rx="10"/>
+        <rect x="10" y="50" width="80" height="120" fill="#ffffff" rx="5"/>
+        <rect x="20" y="20" width="60" height="30" fill="#805ad5" rx="15"/>
+        <rect x="15" y="60" width="70" height="25" fill="#805ad5" rx="3"/>
+        <text x="50" y="77" font-family="Arial, sans-serif" font-size="10" font-weight="bold" 
+              fill="white" text-anchor="middle">AFRICURE</text>
+        <text x="50" y="100" font-family="Arial, sans-serif" font-size="11" font-weight="bold" 
+              fill="#2d3748" text-anchor="middle">COUGH SYRUP</text>
+        <text x="50" y="115" font-family="Arial, sans-serif" font-size="10" 
+              fill="#718096" text-anchor="middle">100ml</text>
+        <rect x="25" y="125" width="50" height="35" fill="#805ad5" opacity="0.3" rx="5"/>
+    </g>
+    <text x="200" y="250" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="bold" 
+          fill="#2d3748" text-anchor="middle">Cough Syrup</text>
+    <text x="200" y="270" font-family="Inter, Arial, sans-serif" font-size="12" 
+          fill="#718096" text-anchor="middle">Respiratory Care</text>
+</svg>
